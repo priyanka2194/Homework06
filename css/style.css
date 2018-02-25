@@ -1,0 +1,90 @@
+
+
+.jumbotron:hover {
+  opacity:0.6;
+  background-color: red;
+}
+
+
+body{
+  background-image: url("https://media.giphy.com/media/hcrfSTtvl93cA/giphy.gif");
+
+}
+
+.jumbotron{
+  background-image: url("http://assets.crownpublishing.com/wp-content/uploads/2012/07/GoneGirl_680x440.gif");
+  background-position: center;
+  height:400px;
+  width: 100%;
+    background-repeat: no-repeat;
+    background-size: auto;
+    border-bottom:1px solid #ff6a00;
+    background-color: black;
+
+  }
+
+  h1{
+    font-size: 60px;
+    color: maroon;
+    font-family: futura;
+    margin-bottom: 10px;
+
+  }
+
+  #band-info{
+    display: none;
+  }
+
+button{
+  background-color: crimson;
+  color: white;
+  border-radius: 15px;
+  font-size: 20px;
+  padding:10px;
+  border: black;
+
+}
+
+button:hover{
+  opacity: 0.9;
+  background-color: black;
+  color: red;
+}
+
+
+p{
+  text-align: center;
+}
+
+
+#buyTickets{
+  align-items: center;
+background-color: black;
+color: red;
+}
+
+.card{
+  margin: 0 auto; /* Added */
+       float: none; /* Added */
+       margin-bottom: 10px; /* Added */
+}
+
+#a1,#a2, #a3, #a4{
+  background-color: black;
+  color: white;
+}
+
+#contact{
+  text-align: center;
+  color: grey;
+  font-size: 30px;
+}
+
+#footer{
+  background-color:transparency;
+  color: red;
+}
+
+#google{
+  margin-left: 40px;
+}
